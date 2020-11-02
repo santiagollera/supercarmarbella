@@ -1,11 +1,11 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.jpg
+  bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Supercar Marbella
-  content: Rent and Shop of top automotive brands
+  content: Top Automotive Rent and Shop
   button:
     enable: true
     label: Let's drive!
