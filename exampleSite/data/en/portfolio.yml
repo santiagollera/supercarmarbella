@@ -4,7 +4,7 @@ portfolio:
   title: Our Brands
   portfolio_item:
   - name: Ferrari California
-    image: images/portfolio/portfolio-1.jpg
+    image: images/ferrari.jpg
     image_webp: images/portfolio/portfolio-1.webp
     categories:
     - Ferrari
