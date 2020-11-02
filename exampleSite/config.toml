@@ -30,7 +30,7 @@ pre = "#"
 url = "services"
 weight = 2
 [[menu.main]]
-name = "portfolio"
+name = "Cars"
 pre = "#"
 url = "portfolio"
 weight = 3
