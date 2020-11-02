@@ -4,7 +4,7 @@ feature:
   image: images/about-business-man.jpg
   image_webp: images/about-business-man.webp
   title: TOP BRANDS
-  content: Audi Bentley BMW Ferrari Lamborghini McLaren Mercedes Benz AMG
+  content: ''
   feature_item:
   - title: More than 200 vehicles available
     icon: ti-car
@@ -19,6 +19,5 @@ feature:
     content: All the vehicles have the best conditions and maintenance to enjoy a
       perfect driving
   - title: Easy Customization
-    icon: ti-announcement
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    icon: ti-money
+    content: Best prices in the market for rent and buying oportunities
