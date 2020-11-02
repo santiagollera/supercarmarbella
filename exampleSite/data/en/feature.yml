@@ -3,7 +3,7 @@ feature:
   enable: true
   image: images/about-business-man.jpg
   image_webp: images/about-business-man.webp
-  title: TOP BRANDS
+  title: ''
   content: ''
   feature_item:
   - title: More than 200 vehicles available
