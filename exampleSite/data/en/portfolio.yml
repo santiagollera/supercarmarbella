@@ -5,7 +5,7 @@ portfolio:
   portfolio_item:
   - name: Ferrari California
     image: images/ferrari.jpg
-    image_webp: images/portfolio/portfolio-1.webp
+    image_webp: images/portfolio/ferrari.webp
     categories:
     - Ferrari
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
