@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/hero-area.webp
+  bg_image_webp: ''
   bg_image: images/hero-area.jpg
   icon: ''
   title: Supercar Marbella
