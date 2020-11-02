@@ -14,10 +14,10 @@ feature:
     icon: ti-home
     content: If you want us to take the car to your location it's included in the
       price of the rental
-  - title: SEO Optimized
-    icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Cars in optimum conditions
+    icon: ti-dashboard
+    content: All the vehicles have the best conditions and maintenance to enjoy a
+      perfect driving
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
