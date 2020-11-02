@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
+  image: images/about-business-man.jpg
+  image_webp: images/about-business-man.webp
   title: TOP BRANDS
   content: Audi Bentley BMW Ferrari Lamborghini McLaren Mercedes Benz AMG
   feature_item:
