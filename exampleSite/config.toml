@@ -54,14 +54,9 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 7
-[[menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "Santiago Llera"
+description = "Supercar Marbella Rent and shop"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
@@ -108,7 +103,7 @@ link = "#"
 icon = "ti-twitter-alt"
 link = "#"
 [[params.social]]
-icon = "ti-youtube"
+icon = "ti-instagram"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
