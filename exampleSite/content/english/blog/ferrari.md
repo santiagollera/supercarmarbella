@@ -4,7 +4,7 @@ date: 2018-09-12T12:52:36.000+06:00
 image_webp: "/images/ferrari.webp"
 image: "/images/featue-bg.jpg"
 author: ''
-description: FerrarRent and shop
+description: Ferrari Rent and shop
 
 ---
 The Ferrari 488 GTB opens a new chapter in the history of the eight-cylinder brand of the 'Prancing Horse'. This new berlinetta perfectly combines Ferrari's experience in F1 and in the 'WEC' ('World Endurance Championship'), where the 458 GT maintains the title of World Champion and has won its category in the last two editions of the 24 hours of Le Mans.
