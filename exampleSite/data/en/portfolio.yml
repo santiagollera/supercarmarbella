@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Our Cars
+  title: Special Price
   portfolio_item:
   - name: Ferrari California
     image: images/ferrari-california.jpg
