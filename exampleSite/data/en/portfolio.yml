@@ -18,12 +18,12 @@ portfolio:
     content: 1500€/day
     link: https://www.supercarmarbella.com/blog/ferrari
   - name: Lamborghini Huracan
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+    image: images/lamborghini-huracan.jpg
+    image_webp: images/lamborghini-huracan.webp
     categories:
     - Lamrborghini
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: ''
+    content: 1500€/ day
+    link: https://www.supercarmarbella.com/blog/lamborghini-huracan/
   - name: McLaren
     image: images/portfolio/portfolio-3.jpg
     image_webp: images/portfolio/portfolio-3.webp
