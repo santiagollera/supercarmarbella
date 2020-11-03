@@ -34,33 +34,17 @@
 			</div>
 
 			{{"<!-- Contact Form -->" | safeHTML}}
-			{{ if .contact_form.enable }}
-			{{ with .contact_form }}
-			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-	<!-- Do not change the code! -->
-					<a id="foxyform_embed_link_969661" href="http://www.foxyform.com/">foxyform</a>
-					<script type="text/javascript">
-					(function(d, t){
-  					 var g = d.createElement(t),
-   					    s = d.getElementsByTagName(t)[0];
- 					  g.src = "http://www.foxyform.com/js.php?id=969661&sec_hash=11206ee8dbe&width=350px";
-					   s.parentNode.insertBefore(g, s);
-						}(document, "script"));
-						</script>
+			<!-- Do not change the code! -->
+<a id="foxyform_embed_link_969661" href="http://www.foxyform.com/">foxyform</a>
+<script type="text/javascript">
+(function(d, t){
+   var g = d.createElement(t),
+       s = d.getElementsByTagName(t)[0];
+   g.src = "http://www.foxyform.com/js.php?id=969661&sec_hash=11206ee8dbe&width=350px";
+   s.parentNode.insertBefore(g, s);
+}(document, "script"));
+</script>
 <!-- Do not change the code! -->
-				</form>
-			</div>
-			{{ end }}
-			{{ else }}
-			<div class="contact-details">
-				{{ range .contact_list }}
-				<div class="con-info clearfix">
-					<i class="{{ .icon }}"></i>
-					<span>{{ .info }}</span>
-				</div>
-				{{ end }}
-			</div>
-			{{ end }}
 		</div>
 	</div>
 </section>
