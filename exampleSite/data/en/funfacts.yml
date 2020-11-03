@@ -1,6 +1,6 @@
 ---
 funfacts:
-  enable: true
+  enable: false
   bg_image: images/bg.jpg
   bg_image_webp: images/bg.webp
   counter_item:
