@@ -4,7 +4,7 @@ date: 2018-09-12T12:52:36.000+06:00
 image_webp: "/images/lamborghini-huracan.webp"
 image: "/images/lamborghini-huracan.jpg"
 author: ''
-description: 1500€/ Day
+description: Lamborghini Huracan
 
 ---
 **The Lamborghini Huracán** was presented at the 2014 Geneva Motor Show with the firm intention of becoming the new best-seller of the Sant'Agata manufacturer. With the complicated challenge of surpassing the 14,022 units produced of the Gallardo - the most commercially successful Lamborghini of all time - the Huracán LP640-4 boasts on all four sides the exuberance and sportiness of the best Italian supercars.
