@@ -1,7 +1,7 @@
 ---
 funfacts:
   enable: true
-  bg_image: images/backgrounds/bg-white-wall.jpg
+  bg_image: images/bg.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
   - title: Happy Clients
