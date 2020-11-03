@@ -1,6 +1,6 @@
 baseURL = "supercarmarbella.com"
 disableLanguages = []
-disqusShortname = "SupercarMarbella"
+disqusShortname = "SupercarMarbella Rent and Shop"
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
