@@ -1,6 +1,6 @@
 ---
 about:
-  enable: true
+  enable: false
   title: ". Become a supercar member"
   about_item:
   - icon: ti-heart
