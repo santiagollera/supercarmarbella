@@ -8,8 +8,8 @@ portfolio:
     image_webp: images/ferrari-california.webp
     categories:
     - Ferrari
-    content: ''
-    link: blog/Ferrari Carlifornia.md
+    content: 800€/day
+    link: blog/ferrari-carlifornia.md
   - name: Ferrari 488GTB
     image: images/ferrari.jpg
     image_webp: images/portfolio/ferrari.webp
