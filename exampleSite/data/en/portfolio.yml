@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Our Brands
+  title: Our Cars
   portfolio_item:
   - name: Ferrari California
     image: images/ferrari-california.jpg
