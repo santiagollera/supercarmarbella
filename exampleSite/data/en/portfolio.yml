@@ -4,6 +4,13 @@ portfolio:
   title: Our Brands
   portfolio_item:
   - name: Ferrari California
+    image: images/ferrari-california.jpg
+    image_webp: images/ferrari-california.webp
+    categories:
+    - Ferrari
+    content: ''
+    link: ''
+  - name: Ferrari 488GTB
     image: images/ferrari.jpg
     image_webp: images/portfolio/ferrari.webp
     categories:
