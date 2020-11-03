@@ -9,13 +9,13 @@ portfolio:
     categories:
     - Ferrari
     content: 800€/day
-    link: blog/ferrari-carlifornia.md
+    link: https://www.supercarmarbella.com/blog/ferrari-california
   - name: Ferrari 488GTB
     image: images/ferrari.jpg
     image_webp: images/portfolio/ferrari.webp
     categories:
     - Ferrari
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: 1500€/day
     link: https://www.supercarmarbella.com/blog/ferrari
   - name: Lamborghini Huracan
     image: images/portfolio/portfolio-2.jpg
