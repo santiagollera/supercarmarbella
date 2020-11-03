@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "Supercar Marbella"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [SupercarMarbella.com](https://supercarmarbella.com) & Developed by [Googleate.es](https://googleate.es)"
+copyright = "Copyright &copy; 2020 [SupercarMarbella.com](https://www.supercarmarbella.com) & developed by [Googleate.es](https://www.googleate.es)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
