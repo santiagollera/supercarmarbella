@@ -20,32 +20,12 @@ languageCode = "es-Es"
 languageName = "Es"
 weight = "2"
 [[menu.main]]
-name = "about"
-pre = "#"
-url = "about"
-weight = 1
-[[menu.main]]
-name = "services"
-pre = "#"
-url = "services"
-weight = 2
-[[menu.main]]
-name = "Cars"
+name = "Brands"
 pre = "#"
 url = "portfolio"
 weight = 3
 [[menu.main]]
-name = "team"
-pre = "#"
-url = "team"
-weight = 4
-[[menu.main]]
-name = "pricing"
-pre = "#"
-url = "pricing"
-weight = 5
-[[menu.main]]
-name = "blog"
+name = "All cars"
 pre = "#"
 url = "blog"
 weight = 6
