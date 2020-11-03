@@ -3,9 +3,9 @@ contact:
   enable: true
   title: Contact Us
   subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content: SupercarMarbella.com is located in the pearl of Costa del Sol, Malaga,
+    Spain. A destination full of luxury life and good weather is one of the most famous
+    touristic places in the world.
   contact_list:
   - icon: ti-location-pin
     info: Marbella, Malaga, Spain
