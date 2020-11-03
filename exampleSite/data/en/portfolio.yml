@@ -30,11 +30,11 @@ portfolio:
     categories:
     - McLaren
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+    link: https://www.supercarmarbella.com/blog/mclaren/
   - name: Porsche 911
-    image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
+    image: images/porsche-911.jpg
+    image_webp: images/porsche-911.webp
     categories:
     - Porsche
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+    content: 900€/day
+    link: https://www.supercarmarbella.com/blog/porsche-911/
