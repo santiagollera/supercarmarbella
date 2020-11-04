@@ -1,6 +1,6 @@
 +++
 email = ""
-image = ""
+image = "/hero-area.jpg"
 social = []
 title = ""
 
