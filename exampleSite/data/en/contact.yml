@@ -3,9 +3,9 @@ contact:
   enable: true
   title: Contact Us
   subtitle: Contact Details
-  content: SupercarMarbella.com is located in the pearl of Costa del Sol, Malaga,
-    Spain. A destination full of luxury life and good weather is one of the most famous
-    touristic places in the world.
+  content: SupercarMarbella.com is located in Marbella, Malaga, Spain. A destination
+    full of luxury life and 300 days of sun makes this place one of the most famous
+    and touristic places in the world.
   contact_list:
   - icon: ti-location-pin
     info: Marbella, Malaga, Spain
