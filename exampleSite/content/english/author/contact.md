@@ -2,23 +2,6 @@
 email = ""
 image = ""
 social = []
-title = "Contact"
+title = ""
 
 +++
-Hello worlda
-
-asd
-
-ad
-
-asd
-
-as
-
-d
-
-asd
-
-asd
-
-sad
