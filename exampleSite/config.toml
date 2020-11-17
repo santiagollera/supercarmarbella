@@ -75,7 +75,7 @@ link = "plugins/lazy-load/lozad.min.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-comment"
+icon = "ti-mobile"
 link = "Usa: https://wa.me/34663010971"
 [[params.social]]
 icon = "ti-facebook"
