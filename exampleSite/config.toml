@@ -76,7 +76,7 @@ enable = false
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-mobile"
-link = "Usa: https://wa.me/34663010971"
+link = "https://wa.me/34663010971"
 [[params.social]]
 icon = "ti-instagram"
 link = "https://www.instagram.com/supercarmarbella/"
