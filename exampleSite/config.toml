@@ -78,8 +78,5 @@ preloader = "images/logo.png"
 icon = "ti-mobile"
 link = "Usa: https://wa.me/34663010971"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
 icon = "ti-instagram"
 link = "https://www.instagram.com/supercarmarbella/"
